@@ -1,0 +1,9 @@
+{
+  "java.compile.nullAnalysis.mode": "automatic",
+  "java.autobuild.enabled": true,
+  "java.project.referencedLibraries": [
+      "bin/main", 
+      "bin/test"
+  ],
+  "java.gradle.buildServer.enabled": "off", // Temporary. Check for extension updates
+}
